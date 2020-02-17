@@ -1,0 +1,22 @@
+{
+  "name": "sample_node_js_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuntawa/sample_node_js_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nuntawa/sample_node_js_app/issues"
+  },
+  "homepage": "https://github.com/nuntawa/sample_node_js_app#readme",
+  "description": ""
+}
